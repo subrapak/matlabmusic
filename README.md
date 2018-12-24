@@ -14,7 +14,8 @@ Often, two songs with similar BPMs are not in the same key. However, if one of t
 **Example**
 
 Song A has a tempo of 100 BPM and is in the key of C major (8 B) while Song B has a tempo of 95 BPM and is in the key of A flat major (4 B). The tempos are close enough that they can be mixed together.
-However, the keys are not compatible. If you're musical you'll know these two keys are not relative fifths apart, which means the songs cannot be harmonically mixed together. BUT we can move Song B down one semitone to G major (9 B) - this will then mix with Song A's key of C major! 
+However, the keys are not compatible. If you're musical you'll know these two keys are not relative fifths apart, which means the songs cannot be harmonically mixed together. BUT we can move Song B down one semitone to G major (9 B) - this will then mix with Song A's key of C major! See the Camelot Mixing Wheel below to see which keys are compatible with each other (adjacent keys are):
+
 ![camelot](./camelotSmall.jpg)
 
 Note: You may ask, why can't we just move the key of Song B (A flat major) straight to C major? The answer is that this would be a jump of 8 semitones - which often massively distorts sound quality in current DJ software.
