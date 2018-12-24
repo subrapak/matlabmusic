@@ -5,7 +5,18 @@ A few MATLAB scripts to help with music mixing.
 
 There are two main programs, written in MATLAB code, that help DJs create bootlegs and mashups of different songs. For two songs to mix together, they need to: (A) be in the same key (or in compatible keys) and (B) have a similar tempo. As it can be quite time consuming searching for songs that fit into these parameters, the two scripts aim to reduce the time/effort taken to find songs compatible for mixing.
 
-A knowledge of basic music theory is assumed. Key terms are: BPM, major and minor keys, circle of fifths, compatible keys, Camelot Mixing Wheel (http://www.harmonic-mixing.com/howto.aspx).
+A knowledge of basic music theory is assumed. Key terms are: 
+BPM (https://blog.storyblocks.com/tutorials/what-are-beats-per-minute-bpm/)
+
+Major and minor keys (https://www.musical-u.com/learn/major-minor-keys/)
+
+circle of fifths
+
+compatible keys
+
+Camelot Mixing Wheel (http://www.harmonic-mixing.com/howto.aspx)
+
+Audio Keychain (https://www.audiokeychain.com/)
 
 **Harmonic_mixing_program**
 
